@@ -94,7 +94,7 @@ def do_shooting():
 
   if shoot_at == wumpus_location:
     print "twang ... mwaah! You shoot the wumpus"
-    print "well ddne mighty wumpus hunter"
+    print "well done mighty wumpus hunter"
     print "the cave has now bee closed to outsiders because the wompi are now endangered"
   else:
     print "twang ... clatter, clatter"
